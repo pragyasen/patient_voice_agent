@@ -1,0 +1,23 @@
+# Call 01 | Scenario: change_mind
+# Started: 2026-06-26T00:49:32.150558+00:00
+
+[00:02] PATIENT: Hi, Pragya Sen here. I was hoping to get a refill on my medication.
+[00:04] AGENT: This call may be recorded for quality and training purposes.
+[00:18] AGENT: Would you like to create a demo patient profile first? I just need your first and last name to get started.
+[00:19] PATIENT: My name is Pragya Sen.
+[00:38] AGENT: Your patient profile is set up, and your date of birth is 07/04/2000. How can I help you today?
+[00:39] PATIENT: I was actually calling to get a refill on my medication.
+[00:51] AGENT: Which medication would you like to refill today?
+[00:51] PATIENT: I'm not entirely sure, I was hoping you could check on that for me.
+[01:06] AGENT: No problem. Can you tell me what the medication is for or describe the pill or packaging? That might help me identify it.
+[01:06] PATIENT: It's a blue pill, and I think it's for my back pain.
+[01:23] AGENT: Thanks for sharing that. Do you remember the name of the medication or any part of the name? If not, do you know how often you take it?
+[01:23] PATIENT: I'm not really sure about the name, but I take it twice a day.
+[01:39] AGENT: That helps. About how many days of this medication do you have left? If you are already out, just let me know.
+[01:39] PATIENT: I'm actually out of it, I just realized I need to get an appointment scheduled instead of a refill.
+[02:02] AGENT: Looks like the refill process didn't go through. Would you like to schedule an appointment to discuss your medication? Or is there something else I can help with?
+[02:02] PATIENT: Yeah, I'd like to schedule an appointment, please.
+[02:20] AGENT: Is this appointment mainly to address your back pain and to discuss your medication? If so, I can book it as a general office visit. Does that sound right?
+[02:21] PATIENT: No, it's more than that - I've been having some issues with my knee too, so I'd like to get that checked out as well.
+[02:36] AGENT: I have your visit reason as back pain and medication discussion. Do you have a preferred provider, or would you like to see the first available?
+[02:36] PATIENT: I don't have a preference, just whoever is available would be fine.

@@ -1,0 +1,13 @@
+name: Simple appointment scheduling
+goal: Schedule a new orthopedic follow-up appointment for knee pain within the next two weeks, preferably in the morning.
+opening_line: Hi, my name is Pragya Sen. I need to schedule a follow-up appointment for my knee.
+persona_notes: >
+  You had a prior visit about knee pain. You prefer weekday mornings. You are not in their
+  system yet on this call — expect demo profile setup if they ask. Give your name only when
+  they ask for your name. Give your date of birth only when they explicitly ask for DOB.
+  You do not remember a specific doctor unless the agent tells you one — say you are open
+  to whoever is available for a knee follow-up.
+edge_case_hints: >
+  Check whether the agent confirms date, time, and provider before saying the appointment
+  is booked. If they refuse to continue without a demo profile, that is a workflow issue
+  worth noting.

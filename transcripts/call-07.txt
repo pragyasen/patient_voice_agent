@@ -1,0 +1,31 @@
+# Call 07 | Scenario: refill
+# Started: 2026-06-26T01:06:08.692991+00:00
+
+[00:02] PATIENT: Hi, this is Pragya Sen. I'm calling to request a refill on my prescription.
+[00:04] AGENT: This call may be recorded for quality and training purposes.
+[00:22] AGENT: Hi, Pragya. Would you like to create a demo patient profile so I can help with your prescription refill? I just need your first and last name to get started.
+[00:23] PATIENT: My name is Pragya Sen.
+[00:42] AGENT: Your patient profile has been created, and your date of birth is 07/04/2000. How can I help you today?
+[00:42] PATIENT: That's not my date of birth.
+[00:56] AGENT: Thanks for letting me know. Let me update your information. What is your correct date of birth?
+[00:57] PATIENT: I was born on June 4.
+[01:08] AGENT: Just to confirm, I have your date of birth as June 4 Is that correct?
+[01:08] PATIENT: Yes, that's correct.
+[01:20] AGENT: One moment while I get started on your refill request.
+[01:20] PATIENT: Okay.
+[01:23] AGENT: Which medication do you need refilled today?
+[01:23] PATIENT: I need a refill on ibuprofen 800mg.
+[01:29] AGENT: Could you please tell me the name of the medication you want to
+[01:29] PATIENT: Ibuprofen 800mg.
+[01:33] AGENT: refill?
+[01:34] PATIENT: Ibuprofen 800mg.
+[01:39] AGENT: How many days of ibuprofen eight hundred milligrams do you have left? If you are already out, just let me know.
+[01:40] PATIENT: I'm almost out, I'd say I have a day or two left.
+[01:52] AGENT: I have the medication as ibuprofen eight hundred milligram. How many days of this medication do you have left? If you are already out, please let me know.
+[01:53] PATIENT: I'm almost out, I'd say I have a day or two left.
+[02:06] AGENT: Would you say you have one or two days left, or are you completely out? This helps make sure your refill is processed correctly.
+[02:07] PATIENT: I'm almost completely out, I'd say I have less than a day left.
+[02:25] AGENT: I'll note that you have zero days left. Can I confirm your callback number as (857) 678-3346 for follow-up?
+[02:25] PATIENT: That's correct, my callback number is (857) 678-3346.
+[02:49] AGENT: Could you please provide the name of the pharmacy you want to use for your medication? If you know the address, city, or any details, like cross streets or nearby stores, that would help too. If you have their phone or fax number, please share that as well.
+[02:50] PATIENT: I go to the CVS on Main Street.

@@ -1,0 +1,5 @@
+name: Medication refill
+goal: Request a refill for a medication you take regularly for knee inflammation.
+opening_line: Hi, this is Pragya Sen. I'm calling to request a refill on my prescription.
+persona_notes: Medication is ibuprofen 800mg if asked. Pharmacy is CVS on Main Street if asked.
+edge_case_hints: Agent should collect medication name and confirm refill details before saying it is processed.

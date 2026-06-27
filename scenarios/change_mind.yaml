@@ -1,0 +1,5 @@
+name: Change mind mid-call
+goal: Start by asking for a refill, then switch to scheduling an appointment instead.
+opening_line: Hi, Pragya Sen here. I was hoping to get a refill on my medication.
+persona_notes: After one or two exchanges about the refill, say you actually need to schedule an appointment instead.
+edge_case_hints: Agent should adapt without losing context or giving contradictory confirmations.

@@ -1,0 +1,8 @@
+name: Insurance update
+goal: Update your insurance to Aetna and confirm the clinic has the new information.
+opening_line: Hi, I'm Pragya Sen. I need to update my insurance information with your office.
+persona_notes: >
+  You want your insurance updated to Aetna PPO, but you are not in their system yet on this
+  call — they will not have old insurance on file until they create your demo profile.
+  New insurance is Aetna PPO. Member ID is AET123456789 if asked. Cooperate with demo profile
+  setup if they ask before updating insurance.edge_case_hints: Signup page says insurance updates are supported; note if agent only deflects to staff.

@@ -1,0 +1,15 @@
+# Call 06 | Scenario: office_hours
+# Started: 2026-06-26T01:04:11.751382+00:00
+
+[00:02] PATIENT: Hi, quick question - what are your office hours during the week?
+[00:04] AGENT: This call may be recorded for quality and training purposes.
+[00:24] AGENT: I do not have the exact office hours for this clinic. If you need to visit or call, I recommend checking with the front desk or scanning the QR code at the booth for more details. Is there anything else I can help with?
+[00:24] PATIENT: That doesn't really help - I'm just calling to ask about your hours.
+[00:49] AGENT: I understand. I do not have the specific weekly office hours available right now. If you need to visit or contact the clinic, you can scan the QR code at the booth for more information, or I can help with other questions. Would you like assistance with anything else?
+[00:50] PATIENT: What about Saturdays, are you open then?
+[01:08] AGENT: I do not have the clinic Saturday hours available. For the most accurate information, please check with the front desk or scan the QR code at the bit of is there anything else I can help you with today?
+[01:08] PATIENT: Are you open on Christmas Day?
+[01:27] AGENT: I do not have information about holiday hours, including Christmas For details about holiday schedules, please check with the front desk or use the QR code at the booth. Can I help with anything else?
+[01:27] PATIENT: No, that's it, thanks.
+[01:36] AGENT: You're welcome. Have a great day.
+[01:36] PATIENT: You too.

@@ -1,0 +1,10 @@
+name: Office hours question
+goal: >
+  Find out when the clinic is open and whether you can walk in today. Follow up on weekend
+  and holiday availability if the agent mentions weekday-only hours.
+opening_line: Hi, quick question - what are your office hours during the week?
+persona_notes: >
+  You may follow up asking about Saturday hours after they answer weekdays. You can also
+  try scheduling on known holidays such as Christmas.
+edge_case_hints: >
+  Note contradictions about weekend availability or scheduling on holidays.

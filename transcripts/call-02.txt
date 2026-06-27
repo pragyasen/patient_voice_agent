@@ -1,0 +1,23 @@
+# Call 02 | Scenario: insurance_update
+# Started: 2026-06-26T00:52:50.403002+00:00
+
+[00:02] PATIENT: Hi, I'm Pragya Sen. I need to update my insurance information with your office.
+[00:04] AGENT: This call may be recorded for quality and training purposes.
+[00:21] AGENT: Would you like to create a demo patient profile so I can help you update your insurance information? I just need your first and last name to get started.
+[00:21] PATIENT: Yeah, that sounds good.
+[00:31] AGENT: Great. Can you please tell me your first and last name?
+[00:31] PATIENT: My name is Pragya Sen.
+[00:40] AGENT: Thanks. Can you also provide your last name?
+[00:40] PATIENT: My name is Pragya Sen.
+[00:58] AGENT: Your patient profile has been created. And your date of birth is listed as 07/04/2000 for demo purposes. May I help you today?
+[00:58] PATIENT: No, that's not my date of birth.
+[01:20] AGENT: Thanks for letting me know. I'll make a note that the date of birth on file is not correct. Let me update your insurance information now. Let's get your date of birth corrected. What is your correct date of birth?
+[01:21] PATIENT: My correct date of birth is June 4th, 2001.
+[01:43] AGENT: Thank you for clarifying. I'll update your date of birth to 06/04/2001. Let's continue with your insurance update. Let me send you a secure link by text to update your insurance information.
+[01:43] PATIENT: Okay.
+[01:55] AGENT: You currently do not have any insurance on file with us. Would you like to receive a text message at a number ending in 3346? To upload photos of your insurance card?
+[01:55] PATIENT: Yeah, I'll receive the text at that number.
+[02:15] AGENT: I've sent a text link to your number ending in 3346. Please use it to upload photos of your insurance card. Let me know if you have any questions while filling out the form.
+[02:15] PATIENT: I'm uploading the photos now. What type of insurance should I select, I have Aetna PPO?
+[02:38] AGENT: For insurance type, select medical if that's an option. Then enter Aetna PPO as your insurance company. Let me know if you need help with any other fields.
+[02:39] PATIENT: I've selected medical and entered Aetna PPO. What's the next step?

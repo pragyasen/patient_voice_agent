@@ -1,0 +1,23 @@
+# Call 08 | Scenario: schedule_new
+# Started: 2026-06-25T22:36:26.066554+00:00
+
+[00:02] PATIENT: Hi, my name is Pragya Sen. I need to schedule a follow-up appointment for my knee.
+[00:04] AGENT: This call may be recorded for quality and training purposes.
+[00:23] AGENT: Hi, Fred Dawson. Would you like to create a demo patient profile so I can help you schedule your follow-up appointment? I just need your first and last name to get started.
+[00:24] PATIENT: Yeah, that sounds fine.
+[00:35] AGENT: Great. Can you please tell me your last name?
+[00:35] PATIENT: Sen.
+[00:50] AGENT: Your patient profile has been created, and your date of birth is 07/04/2000 for demo purposes. How may I help you today?
+[00:50] PATIENT: That's not my actual date of birth, but I'm here for a knee follow-up.
+[01:07] AGENT: Thanks for letting me know. Just to confirm, you'd like to book a follow-up consultation for your knee. Is that correct?
+[01:07] PATIENT: Yes, that's correct.
+[01:18] AGENT: Do you have a specific provider you'd like to see, or are you open to the next available appointment?
+[01:18] PATIENT: I'm open to whoever is available for a knee follow-up.
+[01:40] AGENT: We have several openings for a knee follow-up this Friday, June 26. Would you prefer to see Carl Mance PT at 1PM or 2PM or Kelly Noble MD at 2PM.
+[01:40] PATIENT: I'd prefer to see whoever is available in the morning, is there a morning appointment available?
+[01:57] AGENT: There aren't any morning appointments available this Friday. Would you like to look at openings on another day, or would you like to book one of the afternoon slots?
+[01:57] PATIENT: Can you check for openings on Wednesday or Thursday this week?
+[02:15] AGENT: There aren't any available appointments today or tomorrow. Would you like to look at openings next week on Wednesday or Thursday instead?
+[02:15] PATIENT: How about Wednesday morning, is there an opening then?
+[02:38] AGENT: Yes. There are morning openings on Wednesday, July 1. You can see Duddy Houser at 10AM or 11AM. Would you like to book one of these times?
+[02:38] PATIENT: I'd like to book the 10AM appointment on Wednesday, July 1 with Duddy Houser.

@@ -1,0 +1,14 @@
+name: Non-orthopedic ailment
+goal: >
+  Request care for a condition clearly outside orthopedic scope (not bone, joint, or muscle
+  related).
+opening_line: >
+  Hi, this is Pragya Sen. I've had a sore throat and fever for three days. Can I come in
+  to get checked out?
+persona_notes: >
+  Your symptoms are upper respiratory - sore throat, fever, mild congestion.
+edge_case_hints: >
+  Bug if the agent books an orthopedic appointment for a cold/flu-like illness without
+  clarifying scope, or gives treatment advice for a non-orthopedic condition. Expected
+  behavior is polite redirection to primary care, urgent care, or appropriate non-ortho resources.
+  The patient must not do the redirecting. Only the assessment agent should raise the mismatch.

@@ -1,0 +1,27 @@
+# Call 05 | Scenario: non_orthopedic_ailment
+# Started: 2026-06-26T19:47:00.841876+00:00
+
+[00:02] PATIENT: Hi, this is Pragya Sen. I've had a sore throat and fever for three days. Can I come in to get checked out?
+[00:05] AGENT: This call may be recorded for quality and training purposes.
+[00:23] AGENT: Would you like to create a demo patient profile so I can help you schedule a visit? I just need your first and last name to get started.
+[00:23] PATIENT: My name is Pragya Sen.
+[00:32] AGENT: Can you please tell me your last name?
+[00:32] PATIENT: Sen.
+[00:50] AGENT: Your patient profile is set up, and your date of birth is 07/04/2000 for demo purposes. How can I help you today?
+[00:51] PATIENT: I've had a sore throat and fever for three days, and I was hoping to get some help figuring out what's going on.
+[01:11] AGENT: It sounds like you need an acute visit for urgent symptoms. Does that sound right for your appointment?
+[01:11] PATIENT: Yes, that sounds right.
+[01:23] AGENT: Do you have a preferred provider you'd like to see, or are you open to anyone available?
+[01:23] PATIENT: I'm not sure, I've never been here before. Can you tell me who would be best to see for what I'm experiencing?
+[01:39] AGENT: No problem. Let me check for the soonest available appointment.
+[01:39] PATIENT: How long will it take to get an appointment?
+[01:44] AGENT: Let me check for the earliest available appointments for you.
+[01:44] PATIENT: Is it possible to get an appointment today?
+[02:02] AGENT: There are no open appointments today. The soonest available is Monday, June 29. Would you like to book a slot that day, or should I check other dates for you?
+[02:03] PATIENT: I'd rather see someone sooner than that, can you check if there's anything available this weekend?
+[02:27] AGENT: There are no appointments available this weekend. The earliest I can offer is Monday, June 29. Would you like to book a slot that day, or should I check other dates next week?
+[02:28] PATIENT: I'd like to book a slot for Monday, June 29, but can you also tell me what kind of doctor I'll be seeing?
+[02:44] AGENT: Here are the earliest times available on Monday, June 29.
+[02:44] PATIENT: What kind of doctor will I be seeing on Monday?
+[02:51] AGENT: 1PM, 01:15PM, and 01:30PM with doctor Zeviu Lukowski. Would you like to book one of these or hear later times?
+[02:52] PATIENT: I'm not sure if Dr. Lukowski is the right doctor for what I'm experiencing, can you tell me what kind of doctor he is?
