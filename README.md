@@ -30,7 +30,7 @@ python -m venv .venv
 copy .env.example .env
 ```
 
-Fill in `.env` with your Twilio, Deepgram, and Groq credentials. Leave `PUBLIC_WEBHOOK_URL` blank — `start.bat` sets it from ngrok automatically.
+Fill in `.env` with your Twilio, Deepgram and Groq credentials. Leave `PUBLIC_WEBHOOK_URL` blank, because `start.bat` sets it from ngrok automatically.
 
 **Restart the server** after any `.env` change.
 
