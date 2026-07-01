@@ -1,6 +1,6 @@
 # Patient Voice Agent
 
-Automated voice bot that calls the Pretty Good AI assessment line (`+1-805-439-8008`), simulates realistic patient scenarios, records conversations and saves transcripts for bug reporting.
+Automated voice bot that calls a test line, simulates realistic patient scenarios, records conversations and saves transcripts for bug reporting.
 
 ## Stack
 
